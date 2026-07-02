@@ -17,7 +17,11 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=varshathammegowda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
+## 🔥 GitHub Streak
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=varshathammegowda&theme=tokyonight&hide_border=true" />
+</p>
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
