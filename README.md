@@ -12,22 +12,14 @@
 - 🌱 Continuously improving my problem-solving and programming skills through Data Structures & Algorithms.
 - 🚀 Interested in Web Development, AI/ML, and Cloud Computing
 - 🎯 Goal: Become a Software Engineer
-  ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=varshathammegowda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</p>
+  
 ## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=varshathammegowda&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=varshathammegowda&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
