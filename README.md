@@ -12,6 +12,11 @@
 - 🌱 Continuously improving my problem-solving and programming skills through Data Structures & Algorithms.
 - 🚀 Interested in Web Development, AI/ML, and Cloud Computing
 - 🎯 Goal: Become a Software Engineer
+  ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=varshathammegowda&show_icons=true&theme=tokyonight" />
+</p>
 
 ## 🛠️ Tech Stack
 
