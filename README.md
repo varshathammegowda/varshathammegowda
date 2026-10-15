@@ -7,11 +7,31 @@
 
 ##  About Me
 
-- 🎓 ECE Student at Dayananda Sagar College of Engineering
-- 💻 Passionate about Software Development
-- 🌱 Continuously improving my problem-solving and programming skills through Data Structures & Algorithms.
-- 🚀 Interested in Web Development, AI/ML, and Cloud Computing
-- 🎯 Goal: Become a Software Engineer
+
+🎓 Electronics and Communication Engineering student at **Dayananda Sagar College of Engineering, Bangalore** | Class of 2027
+
+💻 Aspiring Software Developer passionate about building practical applications using **Software Development, AI/ML, and Generative AI**.
+
+- 🌱 Currently strengthening my skills in **Data Structures & Algorithms, React, Node.js, and Backend Development**.
+- 🤖 Exploring **Natural Language Processing, Retrieval-Augmented Generation (RAG), and AI-powered applications**.
+- 🚀 Building projects that combine problem-solving, intelligent systems, and real-world applications.
+- 🛠️ Interested in Software Development, Full-Stack Development, and AI/ML opportunities.
+- 📚 Always learning, experimenting, and improving through hands-on projects.
+
+### Featured Projects
+- 📊 **Student Feedback NLP System** – An NLP-based application for analyzing and classifying student feedback.
+- 🔎 **AI-Powered Research Agent** – A research assistant that uses semantic search and Generative AI to explore research papers and identify insights.
+- 🧠 **ForgeMind AI** – An AI-focused project exploring intelligent solutions.
+
+### Tech Stack
+**Languages:** Python, C++, Java, JavaScript, SQL  
+**Web Development:** HTML, CSS, React, Node.js, Express.js  
+**AI/ML:** NLP, scikit-learn, TF-IDF, RAG, Generative AI  
+**Tools & Databases:** Git, GitHub, Streamlit, FastAPI, MongoDB, PostgreSQL, ChromaDB
+
+💡 *My goal is to turn ideas into useful software, keep learning new technologies, and grow as a developer.*
+
+📫 Let's connect and build something meaningful!
   
 ## 🔥 GitHub Streak
 
