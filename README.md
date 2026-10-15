@@ -21,7 +21,7 @@
 ### Featured Projects
 - 📊 **Student Feedback NLP System** – An NLP-based application for analyzing and classifying student feedback.
 - 🔎 **AI-Powered Research Agent** – A research assistant that uses semantic search and Generative AI to explore research papers and identify insights.
-- 🧠 **ForgeMind AI** – An AI-focused project exploring intelligent solutions.
+- 🧠  Library Management System — A web-based application for managing books, borrowing requests, student records, and digital learning resources.
 
 ### Tech Stack
 **Languages:** Python, C++, Java, JavaScript, SQL  
