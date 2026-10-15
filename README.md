@@ -52,21 +52,11 @@
 
 ---
 
-## 📚 Currently Learning
 
-- Data Structures & Algorithms
-- Full Stack Web Development
-- Problem Solving
-- SQL
 
 ---
 
-## 📂 Projects
 
-- 📝 PHP To-Do Application
-- Generative AI-Based Intrusion Detection System for Internet of Vehicles (IoV)
-- More exciting projects coming soon...
----
 
 ## 📫 Connect with Me
 
