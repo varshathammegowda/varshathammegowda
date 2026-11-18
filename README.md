@@ -8,7 +8,7 @@
 ##  About Me
 
 
-# Hi, I'm Varsha 👋
+
 
 **Electronics and Communication Engineering Student at Dayananda Sagar College of Engineering, Bangalore | Class of 2027**
 
