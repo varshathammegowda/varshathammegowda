@@ -8,30 +8,67 @@
 ##  About Me
 
 
-🎓 Electronics and Communication Engineering student at **Dayananda Sagar College of Engineering, Bangalore** | Class of 2027
+# Hi, I'm Varsha 👋
 
-💻 Aspiring Software Developer passionate about building practical applications using **Software Development, AI/ML, and Generative AI**.
+**Electronics and Communication Engineering Student at Dayananda Sagar College of Engineering, Bangalore | Class of 2027**
 
-- 🌱 Currently strengthening my skills in **Data Structures & Algorithms, React, Node.js, and Backend Development**.
-- 🤖 Exploring **Natural Language Processing, Retrieval-Augmented Generation (RAG), and AI-powered applications**.
-- 🚀 Building projects that combine problem-solving, intelligent systems, and real-world applications.
-- 🛠️ Interested in Software Development, Full-Stack Development, and AI/ML opportunities.
-- 📚 Always learning, experimenting, and improving through hands-on projects.
+💻 **Aspiring AI/ML & Software Developer** passionate about building practical applications using **Artificial Intelligence, Machine Learning, Generative AI, and Full-Stack Development**.
 
-### Featured Projects
-- 📊 **Student Feedback NLP System** – An NLP-based application for analyzing and classifying student feedback.
-- 🔎 **AI-Powered Research Agent** – A research assistant that uses semantic search and Generative AI to explore research papers and identify insights.
-- 🧠  Library Management System — A web-based application for managing books, borrowing requests, student records, and digital learning resources.
+- 🤖 Currently working on **AI/ML, NLP, Generative AI, RAG, and AI Agent-based applications**.
+- 🔎 Building AI systems that combine **semantic search, embeddings, vector databases, and LLMs** to solve real-world problems.
+- 🌐 Strengthening my skills in **Python, FastAPI, React, Node.js, SQL, and backend development**.
+- 🧠 Exploring **AI Agents, Retrieval-Augmented Generation (RAG), NLP, LLM applications, and intelligent automation**.
+- 🚀 Focused on building projects where I can understand not only *how to use AI*, but also **how the underlying systems work and how to improve them**.
+- 📚 Continuously learning through hands-on projects, experimentation, debugging, and technical problem-solving.
 
-### Tech Stack
-**Languages:** Python, C++, Java, JavaScript, SQL  
-**Web Development:** HTML, CSS, React, Node.js, Express.js  
-**AI/ML:** NLP, scikit-learn, TF-IDF, RAG, Generative AI  
-**Tools & Databases:** Git, GitHub, Streamlit, FastAPI, MongoDB, PostgreSQL, ChromaDB
+## 🚀 Featured Projects
 
-💡 *My goal is to turn ideas into useful software, keep learning new technologies, and grow as a developer.*
+### 🔎 AI-Powered Research Agent
+An **AI Agent + RAG-based research assistant** that retrieves research papers, processes PDFs, performs semantic search using embeddings, and uses Generative AI to generate contextual answers.
 
-📫 Let's connect and build something meaningful!
+**Tech:** Python, FastAPI, React, OpenAlex, PyMuPDF, Sentence Transformers, ChromaDB, Gemini API
+
+### 📊 Student Feedback NLP System
+An NLP-based application that analyzes student feedback and performs **sentiment classification** using text preprocessing, TF-IDF feature extraction, and Logistic Regression.
+
+**Tech:** Python, NLP, scikit-learn, TF-IDF, Logistic Regression, Pandas
+
+### ⏰ Jagriti Alarm App
+A **MERN-based intelligent alarm application** that uses physical activities to prevent users from simply snoozing or dismissing alarms.
+
+**Tech:** React, Node.js, Express.js, MongoDB, MediaPipe
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, C++, Java, JavaScript, SQL
+
+**Web Development:** HTML, CSS, React, Node.js, Express.js
+
+**AI/ML:** Machine Learning, NLP, scikit-learn, TF-IDF, Generative AI, LLMs, RAG, AI Agents
+
+**AI/ML Tools:** Pandas, NumPy, Sentence Transformers, ChromaDB
+
+**Backend:** FastAPI, Flask, REST APIs
+
+**Databases:** MongoDB, PostgreSQL, Supabase
+
+**Tools:** Git, GitHub, Docker, Streamlit, Vite
+
+## 🎯 Current Focus
+
+I'm currently focusing on:
+
+- 🤖 **AI/ML & Generative AI**
+- 🔎 **RAG & AI Agent Architecture**
+- 🧠 **NLP & Machine Learning**
+- ⚙️ **Backend Development & APIs**
+- 🌐 **Full-Stack Development**
+- 🐳 **Docker & Application Deployment**
+- 💻 **Data Structures & Algorithms**
+
+💡 *My goal is to build reliable, intelligent software that solves real-world problems while continuously improving my understanding of AI and software engineering.*
+
+📫 **Let's connect, collaborate, and build something meaningful!**
   
 ## 🔥 GitHub Streak
 
