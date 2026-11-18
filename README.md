@@ -54,9 +54,8 @@ A **MERN-based intelligent alarm application** that uses physical activities to 
 
 **Tools:** Git, GitHub, Docker, Streamlit, Vite
 
-## 🎯 Current Focus
 
-I'm currently focusing on:
+
 
 - 🤖 **AI/ML & Generative AI**
 - 🔎 **RAG & AI Agent Architecture**
